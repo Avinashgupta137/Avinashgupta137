@@ -14,13 +14,13 @@
 
 - 🌱 I’m currently learning **SwiftUI , SWIFT5**
 
-- 👨‍💻 All of my projects are available at [https://avinashgupta137.github.io/Responsive-Personal-Portfolio-Website-2/](https://avinashgupta137.github.io/Responsive-Personal-Portfolio-Website-2/)
+- 👨‍💻 All of my projects are available at [https://avinashgupta137.github.io/Responsive-Personal-Portfolio-Website-2/](https://avinashgupta137.github.io/Portfolio.in)
 
-- 📝 I regularly write articles on [https://knowledgeofavinash.blogspot.com/](https://knowledgeofavinash.blogspot.com/)
+- 📝 I regularly write articles on [https://knowledgeofavinash.blogspot.com/](https://avinashg137.blogspot.com/)
 
 - 📫 How to reach me **avinashgupta975344@gmail.com**
 
-- 📄 Know about my experiences [https://avinashgupta137.github.io/Responsive-Personal-Portfolio-Website-2/](https://avinashgupta137.github.io/Responsive-Personal-Portfolio-Website-2/)
+- 📄 Know about my experiences [https://avinashgupta137.github.io/Responsive-Personal-Portfolio-Website-2/](https://avinashgupta137.github.io/Portfolio.in/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
